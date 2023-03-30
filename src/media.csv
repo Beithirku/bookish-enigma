@@ -1,0 +1,13 @@
+Media Type, Stock ID, Title, Price, Publisher, Loaner Username, Loan Date, Reserver Username, Reserved till, ISBN, Author, Genre, Number of Pages, ISSN, Issue Number, Date of Issue, Subject Area, Run Time, Video Format, Storage Case, Number of Tracks, Artist
+Video, 1, Bill & Ted's Excellent Adventure, 7.00, Studiocanal, Nomos, 08-10-2019, N/A, N/A, N/A, N/A, Comedy/Adventure, N/A, N/A, N/A, N/A, N/A, 90, Blu-Ray, Blu-Ray Case, N/A, N/A
+Video, 2, A Silent Voice, 19.50, Kyoto Animation, Nomos, 15-01-2022, N/A, N/A, N/A, N/A, Drama/Anime, N/A, N/A, N/A, N/A, N/A, 129, Blu-Ray, Blu-Ray Case, N/A, N/A
+Video, 3, Baby Driver, 6.99, Sony, Nomos, 11-12-2021, N/A, N/A, N/A, N/A, Crime, N/A, N/A, N/A, N/A, N/A, 113, Blu-Ray, Blu-Ray Case, N/A, N/A
+Book, 4, Berserk Vol 13, 8.99, Dark Horse, , 14-11-2020, N/A, N/A, 1593075006, Kentaro Miura, Dark Fantasy,240, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A
+Book, 5, The Silmarillion, 50.82, HarperColins, , 15-07-2021, N/A, N/A, 0048231398, J. R. R. Tolkien, Mythopoeia,354, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A
+Book, 6, Sherlock Holmes: His Greatest Cases, 16.99, Arcturus, N/A, 13-06-2021, N/A, N/A, 1839401109, Sir Arthur Conan Doyle, Detective, 1328, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A
+Compact Disc, 7, Metaphorical Music, 12.21, Dimid Recordings, Scruffy, 26-02-2010, N/A, N/A,N/A, N/A,Hip Hop, N/A, N/A, N/A, N/A, N/A, 62, N/A, CD Case, 15, Nujabes
+Compact Disc, 8, Hawaii: Part II, 11.11, Independent, Scruffy, 12-12-2012, N/A, N/A, N/A, N/A,Infinity, N/A, N/A, N/A, N/A, N/A, 45, N/A, CD Case, 12, Miracle Musical
+Compact Disc, 9, Cojum Dip, 8.00, Independent, Scruffy, 05-06-2019, N/A, N/A, N/A, N/A,Hard Rock, N/A, N/A, N/A, N/A, N/A, 42, N/A, CD Case, 9, Cojum Dip
+Journal, 10, Journal Of Computer Science, 10.0, Open Access, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 348, 15493636, 1, 14-01-2022, Computer Science, N/A, N/A, N/A, N/A, N/A
+Journal, 11, Current Research In Virology, 9.99, Open Access, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 457, 19490097, 5, 03-03-2016, Virology, N/A, N/A, N/A, N/A, N/A
+Journal, 12, Current Research In Bioinformatics, 5.99, Open Access, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 789, 25242172, 9, 22-02-2020, Bioinformatics, N/A, N/A, N/A, N/A, N/A
